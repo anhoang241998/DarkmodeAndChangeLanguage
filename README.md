@@ -3,7 +3,7 @@ Bài tập Dark Mode và Change Language của lớp Khoa Phạm
 
 Đây là demo mình làm Dark Mode và Change Language của lớp Android Khoa Phạm. Mình combine cả 2 bài tập lại làm một và dùng 1 chức năng nâng cao là lưu shared preference để khi kill app nhưng data vẫn không bị kill.
 
-[![image](D:\Study\KhoaPhamAndroid\15.05.2020\DarkmodeAndChangeLanguage\photo\demo.gif)
+[![image](https://github.com/anhoang241998/DarkmodeAndChangeLanguage/blob/master/photo/demo.gif?raw=true)
 
 ### Features
 

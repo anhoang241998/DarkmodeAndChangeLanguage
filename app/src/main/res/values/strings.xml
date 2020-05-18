@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Dark Theme</string>
+    <string name="night_mode_example">Night Mode Example</string>
+    <string name="this_is_description_text">This is description text</string>
+    <string name="night_mode">Night mode</string>
+    <string name="language_mode">Language Mode</string>
+</resources>

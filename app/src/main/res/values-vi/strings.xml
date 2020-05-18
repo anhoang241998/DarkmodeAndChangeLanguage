@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Dark Theme</string>
+    <string name="night_mode_example">Ví dụ giao diện tối</string>
+    <string name="this_is_description_text">Đây là văn bản mô tả</string>
+    <string name="night_mode">Chuyển chế độ</string>
+    <string name="language_mode">Chuyển ngôn ngữ</string>
+</resources>
